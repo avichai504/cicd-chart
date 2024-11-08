@@ -12,7 +12,7 @@ import LineChart2 from '@/components/lineChart/LineChart2'
 
 import kablansData from '../mock_data/kablans.json'
 import kablansTasksData from '../mock_data/kablanTasks.json'
-import kablanPerformance from '../mock_data/kablanPerformance.json'
+// import kablanPerformance from '../mock_data/kablanPerformance.json'
 import tasks from '../mock_data/tasks.json'
 import taskComplexity from '../mock_data/taskComplexity.json'
 import bgtReq from '../mock_data/bgtReq.json'
@@ -40,9 +40,9 @@ export default function Home() {
         <DoughnutChart data={kablansTasksData} />
       </Box>
 
-      <Box title='Line Chart'>
+      {/* <Box title='Line Chart'>
         <LineChart data={kablanPerformance} />
-      </Box>
+      </Box> */}
 
       <Box title='Stack Bar Chart'>
         <StackedBarChartComponent data={bgtReq} />
