@@ -1,6 +1,6 @@
 export const formatBarChartData = (k) => {
-  const labels = k.map((k) => k.kablanName)
-  const totalPrices = k.map((k) => k.totalPrice)
+  const labels = k.map((d) => d.kablanName)
+  const totalPrices = k.map((d) => d.totalPrice)
 
   return {
     labels,
@@ -8,8 +8,7 @@ export const formatBarChartData = (k) => {
       {
         label: 'Total Price',
         data: totalPrices,
-        backgroundColor: 'rgba(0, 0, 255, 0.6)',
-        yAxisID: 'y',
+        backgroundColor: 'rgba(12, 12, 215, 0.6)',
       },
     ],
   }

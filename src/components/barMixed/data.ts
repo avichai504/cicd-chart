@@ -1,7 +1,7 @@
 export const formatBarChartData = (k) => {
   const labels = k.map((k) => k.kablanName)
   const totalPrices = k.map((k) => k.totalPrice)
-  const installers = k.map((k) => k.installers.length)
+  const installers = k.map((k) => k.installers)
 
   return {
     labels,

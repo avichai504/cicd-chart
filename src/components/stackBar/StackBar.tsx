@@ -1,22 +1,23 @@
 'use client'
-import { formatBarChartData } from '@/components/bar/data'
 import { Bar } from 'react-chartjs-2'
+import { formatData } from '@/components/stackBar/formatData'
 import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend } from 'chart.js'
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 
-export default function BarChart({ kablansData }) {
-  const chartData = formatBarChartData(kablansData)
+export default function StackedBarChartComponent({ data }) {
+  const chartData = formatData(data)
 
   const options = {
     responsive: true,
     plugins: {
       legend: { position: 'top' },
-      title: { display: true, text: 'השוואת שכר כל הקבלנים' },
-      datalabels: { display: false }, // Disable data labels
+      title: { display: true, text: 'בקשות תקציב ומחיר' },
+      tooltip: { enabled: true },
     },
     scales: {
-      y: { beginAtZero: true },
+      x: { stacked: true, beginAtZero: true },
+      y: { stacked: true, beginAtZero: true, title: { display: true, text: 'Number of Requests' } },
     },
   } as any
 

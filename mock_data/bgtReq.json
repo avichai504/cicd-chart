@@ -1,0 +1,26 @@
+[
+  {
+    "kablanName": "אבי ניסים",
+    "materialsCost": 15000,
+    "laborCost": 20000,
+    "miscellaneousCost": 5000
+  },
+  {
+    "kablanName": "ישראל ישראלי",
+    "materialsCost": 18000,
+    "laborCost": 25000,
+    "miscellaneousCost": 7000
+  },
+  {
+    "kablanName": "ירון ירוני",
+    "materialsCost": 12000,
+    "laborCost": 22000,
+    "miscellaneousCost": 8000
+  },
+  {
+    "kablanName": "עבד אבוטאגי",
+    "materialsCost": 10000,
+    "laborCost": 15000,
+    "miscellaneousCost": 3000
+  }
+]

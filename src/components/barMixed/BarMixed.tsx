@@ -12,21 +12,19 @@ export default function BarChartMixed({ kablansData }) {
     responsive: true,
     plugins: {
       legend: { position: 'top' },
-      title: { display: true, text: 'שכר קבלנים וכמות מתקינים' },
+      title: { display: true, text: 'השוואת שכר וכמות קבלנים לכל קבלן' },
+      datalabels: { display: false }, // Disable data labels
     },
     scales: {
-      x: { beginAtZero: true,  },
       y: {
         beginAtZero: true,
         type: 'linear',
         position: 'left',
-        title: { display: true, text: 'Total Price' },
       },
       y1: {
         beginAtZero: true,
         type: 'linear',
         position: 'right',
-        title: { display: true, text: 'Installers' },
       },
     },
   } as any
