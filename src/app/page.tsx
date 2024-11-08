@@ -12,7 +12,7 @@ import LineChart2 from '@/components/lineChart/LineChart2'
 
 import kablansData from '../mock_data/kablans.json'
 import kablansTasksData from '../mock_data/kablanTasks.json'
-import kablansPerformance from '../mock_data/kablanPerformance.json'
+import kablanPerformance from '../mock_data/kablanPerformance.json'
 import tasks from '../mock_data/tasks.json'
 import taskComplexity from '../mock_data/taskComplexity.json'
 import bgtReq from '../mock_data/bgtReq.json'
@@ -41,7 +41,7 @@ export default function Home() {
       </Box>
 
       <Box title='Line Chart'>
-        <LineChart data={kablansPerformance} />
+        <LineChart data={kablanPerformance} />
       </Box>
 
       <Box title='Stack Bar Chart'>
