@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: 'false'
+          cache: 'npm'
 
       # Step 3: Install dependencies using npm
       - name: Install dependencies
