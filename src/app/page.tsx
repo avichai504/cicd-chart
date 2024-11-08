@@ -2,7 +2,6 @@ import Box from '@/components/Box'
 
 import BarChartMixed from '@/components/barMixed/BarMixed'
 import PieChartComponent from '@/components/pie/Pie'
-import ScatterChart from '@/components/scatter/Scatter'
 import BarChart from '@/components/bar/Bar'
 import DoughnutChart from '@/components/doughnut/Doughnut'
 import LineChart from '@/components/line/Line'
@@ -11,13 +10,13 @@ import PolarChartComponent from '@/components/polar/Polar'
 import StackedBarChartComponent from '@/components/stackBar/StackBar'
 import LineChart2 from '@/components/lineChart/LineChart2'
 
-import kablansData from '../../mock_data/kablans.json'
-import kablansTasksData from '../../mock_data/kablanTasks.json'
-import kablansPerformance from '../../mock_data/kablanPerformance.json'
-import tasks from '../../mock_data/tasks.json'
-import taskComplexity from '../../mock_data/taskComplexity.json'
-import bgtReq from '../../mock_data/bgtReq.json'
-import totalPerDay from '../../mock_data/totalPerDay.json'
+import kablansData from '../mock_data/kablans.json'
+import kablansTasksData from '../mock_data/kablanTasks.json'
+import kablansPerformance from '../mock_data/kablanPerformance.json'
+import tasks from '../mock_data/tasks.json'
+import taskComplexity from '../mock_data/taskComplexity.json'
+import bgtReq from '../mock_data/bgtReq.json'
+import totalPerDay from '../mock_data/totalPerDay.json'
 
 export default function Home() {
   return (
@@ -42,7 +41,7 @@ export default function Home() {
       </Box>
 
       <Box title='Line Chart'>
-        <LineChart data={kablansPerformance} key={Math.random()} />
+        <LineChart data={kablansPerformance} />
       </Box>
 
       <Box title='Stack Bar Chart'>
