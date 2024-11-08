@@ -1,0 +1,1470 @@
+[
+  {
+    "id": 5,
+    "kablanName": "A A",
+    "totalPrice": 3260,
+    "role": "KABLAN",
+    "installers": [
+      {
+        "name": "א 1"
+      },
+      {
+        "name": "א 2"
+      }
+    ],
+    "tasks": [
+      {
+        "mainTask": {
+          "id": 656459,
+          "title": "משימה 2",
+          "desc": "משימה 2",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "KABLAN",
+          "price": 300,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 2893633,
+          "title": "משימה1",
+          "desc": "משימה",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 120,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 33988,
+          "title": "התקנת חלון",
+          "desc": "התקנת חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 1000,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-05T09:07:32.159Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 369436,
+          "title": "איטום חלון",
+          "desc": "איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 500,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 656459,
+          "title": "משימה 2",
+          "desc": "משימה 2",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "KABLAN",
+          "price": 300,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 119048,
+          "title": "משימה 3",
+          "desc": "משימה 3",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 2,
+          "media": true,
+          "for": "KABLAN",
+          "price": 540,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 369436,
+          "title": "איטום חלון",
+          "desc": "איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 500,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      }
+    ],
+    "probs": [],
+    "bgtReqs": [
+      {
+        "id": 1,
+        "desc": "צריך עוד כסף להתקנה",
+        "media": [],
+        "granted": "GRANTED",
+        "amount": 2500,
+        "createdAt": "2024-11-04T09:38:08.720Z",
+        "updatedAt": "2024-11-04T11:11:59.556Z",
+        "qrId": 1,
+        "taskId": 1,
+        "reqById": 8,
+        "resById": 2,
+        "resAt": "2024-11-04T09:38:37.871Z",
+        "reqBy": {
+          "name": "א 1"
+        },
+        "resBy": {
+          "name": "אביחי גל אור"
+        }
+      },
+      {
+        "id": 4,
+        "desc": "!",
+        "media": [],
+        "granted": "DENIED",
+        "amount": 1,
+        "createdAt": "2024-11-04T10:53:26.536Z",
+        "updatedAt": "2024-11-04T11:06:29.877Z",
+        "qrId": 2,
+        "taskId": 4,
+        "reqById": 12,
+        "resById": 2,
+        "resAt": "2024-11-04T10:54:41.097Z",
+        "reqBy": {
+          "name": "א 2"
+        },
+        "resBy": {
+          "name": "אביחי גל אור"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "kablanName": "C C",
+    "totalPrice": 2660,
+    "role": "KABLAN",
+    "installers": [
+      {
+        "name": "ג 1"
+      }
+    ],
+    "tasks": [
+      {
+        "mainTask": {
+          "id": 119048,
+          "title": "משימה 3",
+          "desc": "משימה 3",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 2,
+          "media": true,
+          "for": "KABLAN",
+          "price": 540,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 2893633,
+          "title": "משימה1",
+          "desc": "משימה",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 120,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 33988,
+          "title": "התקנת חלון",
+          "desc": "התקנת חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 1000,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-05T09:07:32.159Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 33988,
+          "title": "התקנת חלון",
+          "desc": "התקנת חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 1000,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-05T09:07:32.159Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      }
+    ],
+    "probs": [
+      {
+        "id": 1,
+        "desc": "בעיה באיטום",
+        "media": [],
+        "solved": true,
+        "reqById": 6,
+        "solvedById": null,
+        "solvedAt": "2024-11-04T09:40:01.059Z",
+        "duration": null,
+        "createdAt": "2024-11-04T09:39:50.367Z",
+        "updatedAt": "2024-11-04T11:05:38.944Z",
+        "taskId": 3,
+        "qrId": 1,
+        "solvedBy": null,
+        "reqBy": {
+          "name": "ג 1"
+        }
+      }
+    ],
+    "bgtReqs": []
+  },
+  {
+    "id": 10,
+    "kablanName": "B B",
+    "totalPrice": 3080,
+    "role": "KABLAN",
+    "installers": [
+      {
+        "name": "ב 1"
+      }
+    ],
+    "tasks": [
+      {
+        "mainTask": {
+          "id": 656459,
+          "title": "משימה 2",
+          "desc": "משימה 2",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "KABLAN",
+          "price": 300,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 33988,
+          "title": "התקנת חלון",
+          "desc": "התקנת חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 1000,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-05T09:07:32.159Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 33988,
+          "title": "התקנת חלון",
+          "desc": "התקנת חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 1000,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-05T09:07:32.159Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 2893633,
+          "title": "משימה1",
+          "desc": "משימה",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 120,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 2893633,
+          "title": "משימה1",
+          "desc": "משימה",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 120,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 119048,
+          "title": "משימה 3",
+          "desc": "משימה 3",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 2,
+          "media": true,
+          "for": "KABLAN",
+          "price": 540,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 190915,
+          "title": "בדיקת איטום",
+          "desc": "בדיקת איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 2,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      }
+    ],
+    "probs": [],
+    "bgtReqs": [
+      {
+        "id": 3,
+        "desc": "בקשת חריגים",
+        "media": [],
+        "granted": "GRANTED",
+        "amount": 32000,
+        "createdAt": "2024-11-04T10:52:29.161Z",
+        "updatedAt": "2024-11-04T11:11:59.556Z",
+        "qrId": 2,
+        "taskId": 4,
+        "reqById": 10,
+        "resById": 2,
+        "resAt": "2024-11-04T10:53:40.127Z",
+        "reqBy": {
+          "name": "B B"
+        },
+        "resBy": {
+          "name": "אביחי גל אור"
+        }
+      },
+      {
+        "id": 2,
+        "desc": "בקשת חריגים",
+        "media": [],
+        "granted": "DENIED",
+        "amount": 32000,
+        "createdAt": "2024-11-04T10:52:06.862Z",
+        "updatedAt": "2024-11-04T11:11:59.556Z",
+        "qrId": 2,
+        "taskId": 4,
+        "reqById": 11,
+        "resById": 2,
+        "resAt": "2024-11-04T10:53:06.849Z",
+        "reqBy": {
+          "name": "ב 1"
+        },
+        "resBy": {
+          "name": "אביחי גל אור"
+        }
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "kablanName": "אבי ניסים",
+    "totalPrice": 12860,
+    "role": "KABLAN",
+    "installers": [
+      {
+        "name": "עבד אבודאבי"
+      },
+      {
+        "name": "ראמזי בהה"
+      },
+      {
+        "name": "מתקין 3"
+      },
+      {
+        "name": "מתקין 6"
+      },
+      {
+        "name": "מתקין 7"
+      }
+    ],
+    "tasks": [
+      {
+        "mainTask": {
+          "id": 33988,
+          "title": "התקנת חלון",
+          "desc": "התקנת חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 1000,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-05T09:07:32.159Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 170411,
+          "title": "איטום חלון שירותים",
+          "desc": "איטום",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "KABLAN",
+          "price": 200,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 795926,
+          "title": "משימה ללא מדיה",
+          "desc": "משימה ללא מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 2,
+          "media": false,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 975977,
+          "title": "משימה עם מדיה",
+          "desc": "עם מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 3,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 170411,
+          "title": "איטום חלון שירותים",
+          "desc": "איטום",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "KABLAN",
+          "price": 200,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 4341790,
+          "title": "התקנת חלון שירותים",
+          "desc": "התקנה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 0,
+          "media": true,
+          "for": "INSTALLER",
+          "price": 1540,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 33988,
+          "title": "התקנת חלון",
+          "desc": "התקנת חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 1000,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-05T09:07:32.159Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 33988,
+          "title": "התקנת חלון",
+          "desc": "התקנת חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 1000,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-05T09:07:32.159Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 190915,
+          "title": "בדיקת איטום",
+          "desc": "בדיקת איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 2,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 369436,
+          "title": "איטום חלון",
+          "desc": "איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 500,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 893589,
+          "title": "התקנת חלון מטבח",
+          "desc": "הסברים על המשימה הסברים על המשימה הסברים על המשימה ",
+          "tasksId": 481661,
+          "prjId": 9,
+          "order": 1,
+          "media": true,
+          "for": "INSTALLER",
+          "price": 850,
+          "createdAt": "2024-11-07T14:47:14.864Z",
+          "updatedAt": "2024-11-07T14:47:14.864Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 4341790,
+          "title": "התקנת חלון שירותים",
+          "desc": "התקנה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 0,
+          "media": true,
+          "for": "INSTALLER",
+          "price": 1540,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 170411,
+          "title": "איטום חלון שירותים",
+          "desc": "איטום",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "KABLAN",
+          "price": 200,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 893589,
+          "title": "התקנת חלון מטבח",
+          "desc": "הסברים על המשימה הסברים על המשימה הסברים על המשימה ",
+          "tasksId": 481661,
+          "prjId": 9,
+          "order": 1,
+          "media": true,
+          "for": "INSTALLER",
+          "price": 850,
+          "createdAt": "2024-11-07T14:47:14.864Z",
+          "updatedAt": "2024-11-07T14:47:14.864Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 786142,
+          "title": "איטום חלון מטבח",
+          "desc": "הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה ",
+          "tasksId": 481661,
+          "prjId": 9,
+          "order": 2,
+          "media": true,
+          "for": "INSTALLER",
+          "price": 900,
+          "createdAt": "2024-11-07T14:47:14.864Z",
+          "updatedAt": "2024-11-07T14:47:14.864Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 975977,
+          "title": "משימה עם מדיה",
+          "desc": "עם מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 3,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 4341790,
+          "title": "התקנת חלון שירותים",
+          "desc": "התקנה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 0,
+          "media": true,
+          "for": "INSTALLER",
+          "price": 1540,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 4341790,
+          "title": "התקנת חלון שירותים",
+          "desc": "התקנה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 0,
+          "media": true,
+          "for": "INSTALLER",
+          "price": 1540,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 1907708,
+          "title": "הכנת שטח להתקנה",
+          "desc": "הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה ",
+          "tasksId": 481661,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-07T14:47:14.864Z",
+          "updatedAt": "2024-11-07T14:47:14.864Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      }
+    ],
+    "probs": [],
+    "bgtReqs": []
+  },
+  {
+    "id": 22,
+    "kablanName": "ירון אברומי",
+    "totalPrice": 1120,
+    "role": "KABLAN",
+    "installers": [
+      {
+        "name": "בסאם כבהה"
+      },
+      {
+        "name": "מוחמד אבו מוחמד"
+      }
+    ],
+    "tasks": [
+      {
+        "mainTask": {
+          "id": 369436,
+          "title": "איטום חלון",
+          "desc": "איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 500,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 369436,
+          "title": "איטום חלון",
+          "desc": "איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 500,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 2893633,
+          "title": "משימה1",
+          "desc": "משימה",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 120,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 795926,
+          "title": "משימה ללא מדיה",
+          "desc": "משימה ללא מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 2,
+          "media": false,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 190915,
+          "title": "בדיקת איטום",
+          "desc": "בדיקת איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 2,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 975977,
+          "title": "משימה עם מדיה",
+          "desc": "עם מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 3,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 839108,
+          "title": "בדיקת איכות התקנה",
+          "desc": "הסברים על המשימה הסברים על המשימה הסברים על המשימה ",
+          "tasksId": 481661,
+          "prjId": 9,
+          "order": 3,
+          "media": true,
+          "for": "C_INSTALLER",
+          "price": 0,
+          "createdAt": "2024-11-07T14:47:14.864Z",
+          "updatedAt": "2024-11-07T14:47:14.864Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 190915,
+          "title": "בדיקת איטום",
+          "desc": "בדיקת איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 2,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 795926,
+          "title": "משימה ללא מדיה",
+          "desc": "משימה ללא מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 2,
+          "media": false,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 1907708,
+          "title": "הכנת שטח להתקנה",
+          "desc": "הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה ",
+          "tasksId": 481661,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-07T14:47:14.864Z",
+          "updatedAt": "2024-11-07T14:47:14.864Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      }
+    ],
+    "probs": [],
+    "bgtReqs": []
+  },
+  {
+    "id": 23,
+    "kablanName": "גלעד כהן",
+    "totalPrice": 4260,
+    "role": "KABLAN",
+    "installers": [
+      {
+        "name": "חמודי החמוד"
+      },
+      {
+        "name": "מתקין  5"
+      }
+    ],
+    "tasks": [
+      {
+        "mainTask": {
+          "id": 119048,
+          "title": "משימה 3",
+          "desc": "משימה 3",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 2,
+          "media": true,
+          "for": "KABLAN",
+          "price": 540,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 2893633,
+          "title": "משימה1",
+          "desc": "משימה",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 120,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 2893633,
+          "title": "משימה1",
+          "desc": "משימה",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 120,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 170411,
+          "title": "איטום חלון שירותים",
+          "desc": "איטום",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "KABLAN",
+          "price": 200,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 795926,
+          "title": "משימה ללא מדיה",
+          "desc": "משימה ללא מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 2,
+          "media": false,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 975977,
+          "title": "משימה עם מדיה",
+          "desc": "עם מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 3,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 4341790,
+          "title": "התקנת חלון שירותים",
+          "desc": "התקנה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 0,
+          "media": true,
+          "for": "INSTALLER",
+          "price": 1540,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 170411,
+          "title": "איטום חלון שירותים",
+          "desc": "איטום",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "KABLAN",
+          "price": 200,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 975977,
+          "title": "משימה עם מדיה",
+          "desc": "עם מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 3,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 4341790,
+          "title": "התקנת חלון שירותים",
+          "desc": "התקנה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 0,
+          "media": true,
+          "for": "INSTALLER",
+          "price": 1540,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 1907708,
+          "title": "הכנת שטח להתקנה",
+          "desc": "הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה הסברים על המשימה ",
+          "tasksId": 481661,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-07T14:47:14.864Z",
+          "updatedAt": "2024-11-07T14:47:14.864Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      }
+    ],
+    "probs": [],
+    "bgtReqs": []
+  },
+  {
+    "id": 25,
+    "kablanName": "אור יוספי",
+    "totalPrice": 8520,
+    "role": "KABLAN",
+    "installers": [
+      {
+        "name": "מוחמד עבדול"
+      },
+      {
+        "name": "מתקין 1"
+      },
+      {
+        "name": "מתקין 2"
+      },
+      {
+        "name": "מתקין 4"
+      }
+    ],
+    "tasks": [
+      {
+        "mainTask": {
+          "id": 656459,
+          "title": "משימה 2",
+          "desc": "משימה 2",
+          "tasksId": 9318421,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "KABLAN",
+          "price": 300,
+          "createdAt": "2024-11-04T13:46:11.226Z",
+          "updatedAt": "2024-11-04T13:46:11.226Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 33988,
+          "title": "התקנת חלון",
+          "desc": "התקנת חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 1000,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-05T09:07:32.159Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 190915,
+          "title": "בדיקת איטום",
+          "desc": "בדיקת איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 2,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 33988,
+          "title": "התקנת חלון",
+          "desc": "התקנת חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 0,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 1000,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-05T09:07:32.159Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 369436,
+          "title": "איטום חלון",
+          "desc": "איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 500,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 795926,
+          "title": "משימה ללא מדיה",
+          "desc": "משימה ללא מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 2,
+          "media": false,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 795926,
+          "title": "משימה ללא מדיה",
+          "desc": "משימה ללא מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 2,
+          "media": false,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 975977,
+          "title": "משימה עם מדיה",
+          "desc": "עם מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 3,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 975977,
+          "title": "משימה עם מדיה",
+          "desc": "עם מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 3,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 170411,
+          "title": "איטום חלון שירותים",
+          "desc": "איטום",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "KABLAN",
+          "price": 200,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 795926,
+          "title": "משימה ללא מדיה",
+          "desc": "משימה ללא מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 2,
+          "media": false,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 4341790,
+          "title": "התקנת חלון שירותים",
+          "desc": "התקנה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 0,
+          "media": true,
+          "for": "INSTALLER",
+          "price": 1540,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 190915,
+          "title": "בדיקת איטום",
+          "desc": "בדיקת איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 2,
+          "media": true,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 4341790,
+          "title": "התקנת חלון שירותים",
+          "desc": "התקנה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 0,
+          "media": true,
+          "for": "INSTALLER",
+          "price": 1540,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 369436,
+          "title": "איטום חלון",
+          "desc": "איטום חלון מטבח",
+          "tasksId": 7476756,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "INSTALLER",
+          "price": 500,
+          "createdAt": "2024-11-04T09:35:28.744Z",
+          "updatedAt": "2024-11-04T09:35:28.744Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 170411,
+          "title": "איטום חלון שירותים",
+          "desc": "איטום",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "KABLAN",
+          "price": 200,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 4341790,
+          "title": "התקנת חלון שירותים",
+          "desc": "התקנה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 0,
+          "media": true,
+          "for": "INSTALLER",
+          "price": 1540,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 170411,
+          "title": "איטום חלון שירותים",
+          "desc": "איטום",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 1,
+          "media": false,
+          "for": "KABLAN",
+          "price": 200,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      },
+      {
+        "mainTask": {
+          "id": 795926,
+          "title": "משימה ללא מדיה",
+          "desc": "משימה ללא מדיה",
+          "tasksId": 3994782,
+          "prjId": 9,
+          "order": 2,
+          "media": false,
+          "for": "KABLAN",
+          "price": 0,
+          "createdAt": "2024-11-06T16:22:15.284Z",
+          "updatedAt": "2024-11-06T16:22:15.284Z"
+        },
+        "loc": "קומה undefined, דירה undefined, undefined"
+      }
+    ],
+    "probs": [],
+    "bgtReqs": []
+  }
+]
