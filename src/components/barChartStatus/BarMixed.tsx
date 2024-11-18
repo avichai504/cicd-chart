@@ -1,3 +1,4 @@
+// BarMixed.tsx
 'use client'
 import { formatBarChartData } from '@/components/barChartStatus/formatData'
 import { Bar } from 'react-chartjs-2'

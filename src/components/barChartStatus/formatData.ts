@@ -1,3 +1,4 @@
+// formatData.ts
 export function formatBarChartData(kablan) {
   const labels = kablan.map((k) => k.kablanName)
   const taskWaiting = kablan.map((k) => k.taskWaiting)

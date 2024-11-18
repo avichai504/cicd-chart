@@ -1,3 +1,4 @@
+// Data.ts
 export const getKablansData = [
   {
     kablanName: 'ירון ירוני',
