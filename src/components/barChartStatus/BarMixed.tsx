@@ -1,6 +1,6 @@
-'use client';
-import { formatBarChartData } from '@/components/barChartStatus/formatData';
-import { Bar } from 'react-chartjs-2';
+'use client'
+import { formatBarChartData } from '@/components/barChartStatus/formatData'
+import { Bar } from 'react-chartjs-2'
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -9,19 +9,12 @@ import {
   Title,
   Tooltip,
   Legend,
-} from 'chart.js';
+} from 'chart.js'
 
-ChartJS.register(
-  CategoryScale,
-  LinearScale,
-  BarElement,
-  Title,
-  Tooltip,
-  Legend
-);
+ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 
 export default function BarChartMixed({ kablansData }) {
-  const chartData = formatBarChartData(kablansData);
+  const chartData = formatBarChartData(kablansData)
 
   const options = {
     responsive: true,
@@ -48,7 +41,7 @@ export default function BarChartMixed({ kablansData }) {
         grid: { drawOnChartArea: false }, // Disable grid lines for better clarity
       },
     },
-  } as any;
+  } as any
 
-  return <Bar data={chartData} options={options} />;
+  return <Bar data={chartData} options={options} />
 }

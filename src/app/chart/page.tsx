@@ -1,21 +1,12 @@
 // component
-import Box from '@/components/Box';
+import Box from '@/components/Box'
 // Graph
-import BarChartMixed from '@/components/barChartStatus/BarMixed';
+import BarChartMixed from '@/components/barChartStatus/BarMixed'
 // Data
-import { getKablansData } from '@/components/barChartStatus/data';
-
-export type KablanData = {
-  kablanName: string;
-  missionWaiting: number;
-  missionCompleted: number;
-  missionCanceled: number;
-  //skip
-  //task
-};
+import { getKablansData } from '@/components/barChartStatus/Data'
 
 export default function Chart() {
-  const kablansData = getKablansData();
+  const kablansData = getKablansData
 
   return (
     <div className="my-7 space-y-9">
@@ -23,5 +14,5 @@ export default function Chart() {
         <BarChartMixed kablansData={kablansData} />
       </Box>
     </div>
-  );
+  )
 }
