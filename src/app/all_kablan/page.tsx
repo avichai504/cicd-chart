@@ -3,23 +3,28 @@
 import Box from '@/components/Box'
 // Graph
 import BarChartMixed from '@/components/barChartStatus/BarMixed'
-import LineChart from '@/components/lineChartMoneyData/LineChart'
-
+import LineChartMoney from '@/components/lineChartMoneyData/LineChart'
+import LineChartTask from '@/components/lineChartTaskComplete/LineChartTask'
 // Data
 import { getKablansData } from '@/components/barChartStatus/Data'
 import { getMoneyData } from '@/components/lineChartMoneyData/Data'
+import { getTaskData } from '@/components/lineChartTaskComplete/Data'
 
 export default function AllKablan() {
   const kablansData = getKablansData
   const moneyData = getMoneyData
+  const taskData = getTaskData
 
   return (
     <div className="my-7 space-y-9">
       <Box title="Bar Chart">
         <BarChartMixed kablansData={kablansData} />
       </Box>
-      <Box title="Line Chart">
-        <LineChart kablansData={moneyData} />
+      <Box title="Line Chart Money">
+        <LineChartMoney kablansData={moneyData} />
+      </Box>
+      <Box title="Line Chart Task">
+        <LineChartTask kablansData={taskData} />
       </Box>
     </div>
   )

@@ -1,0 +1,55 @@
+export const getTaskData = [
+  {
+    kablanName: 'ירון ירוני',
+    tasks: [
+      { id: 1, status: 'taskWaiting', date: new Date('2024-11-17') },
+      { id: 16, status: 'taskCompleted', date: new Date('2024-11-18') },
+      { id: 2, status: 'taskCompleted', date: new Date('2024-11-18') },
+      { id: 3, status: 'taskSkip', date: new Date('2024-11-19') },
+      { id: 17, status: 'taskCompleted', date: new Date('2024-11-19') },
+      { id: 18, status: 'taskSkip', date: new Date('2024-11-20') },
+      { id: 4, status: 'taskCompleted', date: new Date('2024-11-21') },
+      { id: 5, status: 'taskCompleted', date: new Date('2024-11-21') },
+      { id: 25, status: 'taskCompleted', date: new Date('2024-11-21') },
+    ],
+  },
+  {
+    kablanName: 'אריאל אריאלי',
+    tasks: [
+      { id: 6, status: 'taskWaiting', date: new Date('2024-11-17') },
+      { id: 7, status: 'taskCompleted', date: new Date('2024-11-18') },
+      { id: 19, status: 'taskSkip', date: new Date('2024-11-18') },
+      { id: 20, status: 'taskCompleted', date: new Date('2024-11-19') },
+      { id: 8, status: 'taskCompleted', date: new Date('2024-11-19') },
+      { id: 9, status: 'taskSkip', date: new Date('2024-11-20') },
+      { id: 17, status: 'taskCompleted', date: new Date('2024-11-20') },
+      { id: 10, status: 'taskWaiting', date: new Date('2024-11-21') },
+    ],
+  },
+  {
+    kablanName: 'כפיר כפירי',
+    tasks: [
+      { id: 11, status: 'taskCompleted', date: new Date('2024-11-17') },
+      { id: 12, status: 'taskCompleted', date: new Date('2024-11-18') },
+      { id: 13, status: 'taskCompleted', date: new Date('2024-11-18') },
+      { id: 21, status: 'taskSkip', date: new Date('2024-11-19') },
+      { id: 14, status: 'taskSkip', date: new Date('2024-11-19') },
+      { id: 22, status: 'taskWaiting', date: new Date('2024-11-20') },
+      { id: 22, status: 'taskSkip', date: new Date('2024-11-20') },
+      { id: 15, status: 'taskCompleted', date: new Date('2024-11-21') },
+    ],
+  },
+  {
+    kablanName: 'גכככ כפירי',
+    tasks: [
+      { id: 11, status: 'taskWaiting', date: new Date('2024-11-17') },
+      { id: 12, status: 'taskCompleted', date: new Date('2024-11-18') },
+      { id: 13, status: 'taskSkip', date: new Date('2024-11-18') },
+      { id: 21, status: 'taskWaiting', date: new Date('2024-11-19') },
+      { id: 14, status: 'taskCompleted', date: new Date('2024-11-19') },
+      { id: 22, status: 'taskCompleted', date: new Date('2024-11-20') },
+      { id: 22, status: 'taskSkip', date: new Date('2024-11-20') },
+      { id: 15, status: 'taskWaiting', date: new Date('2024-11-21') },
+    ],
+  },
+]
