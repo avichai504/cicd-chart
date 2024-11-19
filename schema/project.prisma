@@ -1,0 +1,138 @@
+model Task {
+  id       Int      @id @default(autoincrement())
+  mainTask MainTask @relation(fields: [mainTaskId], references: [id])
+  media    String[]
+
+  mainTaskId  Int
+  qr          Qr?       @relation(fields: [qrId], references: [id])
+  qrId        Int?
+
+  completed   Boolean?  @default(false)
+  completedBy User?     @relation("completed", fields: [completedById], references: [id])
+  completedAt DateTime?
+  completedById Int?
+
+  approved   Boolean?  @default(true)
+  approvedBy User?     @relation("approved", fields: [approvedById], references: [id])
+  approvedAt DateTime?
+  approvedById  Int?
+
+  skipped   Boolean?  @default(false)
+  skippedBy User?     @relation("skipped", fields: [skippedById], references: [id])
+  skippedAt DateTime?
+  skippedById  Int?
+
+  User          User?    @relation(fields: [userId], references: [id])
+  userId        Int?
+  
+  note          String?
+  probs         Prob[]
+  bgtReqs       BgtReq[]
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model Prob {
+  id     Int      @id @default(autoincrement())
+  desc   String
+  media  String[]
+  solved Boolean  @default(false)
+
+  qr         Qr        @relation(fields: [qrId], references: [id])
+  task       Task      @relation(fields: [taskId], references: [id])
+  reqBy      User      @relation(fields: [reqById], references: [id], name: "reqBy")
+  reqById    Int
+  solvedBy   User?     @relation(fields: [solvedById], references: [id], name: "solvedBy")
+  solvedById Int?
+  solvedAt   DateTime?
+
+  duration  Int?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  taskId    Int
+  qrId      Int
+  msgs      Msg[]
+}
+
+enum Granted {
+  WAITING
+  GRANTED
+  DENIED
+}
+
+model BgtReq {
+  id      Int      @id @default(autoincrement())
+  desc    String
+  media   String[]
+  granted Granted  @default(WAITING)
+  amount  Int
+
+  qr    Qr   @relation(fields: [qrId], references: [id])
+  task  Task @relation(fields: [taskId], references: [id])
+  reqBy User @relation(fields: [reqById], references: [id], name: "reqBy")
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  qrId    Int
+  taskId  Int
+  reqById Int
+  msgs    Msg[]
+
+  resBy   User?     @relation(fields: [resById], references: [id], name: "resBy")
+  resById Int?
+  resAt   DateTime?
+}
+
+model Qr {
+  id       Int    @id @default(autoincrement())
+  qrNum    Int
+  prjId    Int
+  floor    Int
+  aptNum   Int
+  locInApt String
+
+  part    Part     @relation(fields: [partId], references: [id])
+  partId  Int
+  tasks   Task[]
+  setupBy Int
+  probs   Prob[]
+  bgtReqs BgtReq[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([qrNum, prjId])
+  @@index([qrNum, prjId])
+}
+
+model Msg {
+  id        Int    @id @default(autoincrement())
+  text      String
+  mentioned Int[]
+
+  user   User    @relation(fields: [userId], references: [id])
+  prob   Prob?   @relation(fields: [probId], references: [id])
+  bgtReq BgtReq? @relation(fields: [breqId], references: [id])
+
+  userId Int
+  probId Int?
+  breqId Int?
+
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+  Notification Notification[]
+}
+
+model Notification {
+  id   Int     @id @default(autoincrement())
+  user User    @relation(fields: [userId], references: [id])
+  seen Boolean @default(false)
+
+  msg Msg? @relation(fields: [msgId], references: [id])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  userId    Int
+  msgId     Int?
+}
