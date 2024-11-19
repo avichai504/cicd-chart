@@ -15,6 +15,12 @@ export default function Home() {
         >
           All Kablan
         </a>
+        <a
+          href="/events"
+          className="bg-blue-500 text-white font-bold py-2 px-4 rounded border-2 border-black text-center"
+        >
+          Events
+        </a>
       </div>
     </div>
   )
