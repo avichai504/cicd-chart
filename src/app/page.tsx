@@ -21,6 +21,12 @@ export default function Home() {
         >
           Events
         </a>
+        <a
+          href="/statistics"
+          className="bg-blue-500 text-white font-bold py-2 px-4 rounded border-2 border-black text-center"
+        >
+          statistics
+        </a>
       </div>
     </div>
   )
