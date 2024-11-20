@@ -21,13 +21,25 @@ ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 export default function StatiscBgtReqs({ probData }) {
   const chartData = formatBgtReqsData(probData) // Format data for the stacked bar chart
 
+  const totalRequests =
+    probData.bgtReqs.grantedReq +
+    probData.bgtReqs.deniedReq +
+    probData.bgtReqs.waitingReq +
+    probData.bgtReqs.grantedToday +
+    probData.bgtReqs.deniedToday +
+    probData.bgtReqs.createdToday
+  // Total number of requests
+
+  const grantedRequests =
+    probData.bgtReqs.grantedReq + probData.bgtReqs.grantedToday // Granted Requests
+
   const options = {
     responsive: true,
     plugins: {
       legend: { position: 'top' },
       title: {
         display: true,
-        text: 'סטטיסטיקת בקשות תקציב - סה"כ ובקשות להיום',
+        text: `בקשות חריגים - סה"כ בקשות (${totalRequests}) סה"כ בקשות מאושרות (${grantedRequests})`, // Updated title
       },
       tooltip: { enabled: true },
     },
