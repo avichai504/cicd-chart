@@ -1,0 +1,155 @@
+[
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-19T17:15:39.879Z",
+    "id": 86,
+    "qrNum": 527,
+    "taskTitle": "הכנת שטח להתקנה",
+    "taskDesc": "u",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-19T17:09:53.259Z",
+    "updatedAt": "2024-11-19T17:15:39.879Z",
+    "solvedAt": "2024-11-19T17:15:39.874Z",
+    "duration": "5 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1732036190/main/ypxyfhx3thp9hipgiici.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "d-1",
+    "taskDetails": {
+      "title": "הכנת שטח להתקנה",
+      "desc": "u"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-19T17:13:02.048Z",
+    "id": 87,
+    "qrNum": 527,
+    "taskTitle": "התקנת חלון מטבח",
+    "taskDesc": "k",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-19T17:13:02.048Z",
+    "updatedAt": "2024-11-19T17:13:02.048Z",
+    "solvedAt": null,
+    "duration": "1 ימים ו-17 שעות",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": null,
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1732036378/main/klzqoflbfsvyloxegc4w.webp"
+    ],
+    "desc": "qwde",
+    "probDesc": "qwde",
+    "status": false,
+    "part": "d-1",
+    "taskDetails": {
+      "title": "התקנת חלון מטבח",
+      "desc": "k"
+    }
+  },
+  {
+    "id": 349,
+    "type": "משימה שדולגה",
+    "date": "2024-11-19T17:12:45.286Z",
+    "desc": "u",
+    "userName": "אביחי גל אור",
+    "taskTitle": "הכנת שטח להתקנה",
+    "title": "הכנת שטח להתקנה",
+    "part": "d-1",
+    "qrNum": 527,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "mainTask": {
+      "id": 1907708,
+      "title": "הכנת שטח להתקנה",
+      "desc": "u",
+      "tasksId": 481661,
+      "prjId": 9,
+      "order": 0,
+      "media": false,
+      "for": "KABLAN",
+      "price": 0,
+      "createdAt": "2024-11-07T14:47:14.864Z",
+      "updatedAt": "2024-11-19T17:02:11.293Z"
+    },
+    "order": 0,
+    "curOrder": "משימה 1 מתוך 4",
+    "for": "KABLAN",
+    "price": 0,
+    "skippedAt": "2024-11-19T17:12:45.286Z",
+    "skippedBy": {
+      "id": 2,
+      "firstName": "אביחי",
+      "lastName": "גל אור",
+      "name": "אביחי גל אור",
+      "role": "ADMIN",
+      "email": "avichai506@gmail.com",
+      "phone": "0528864546",
+      "otp": null,
+      "kablanId": null,
+      "gglSub": "103333704777323967454",
+      "gglName": "Avichai Gal-Or",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocKIZF0OtbE59kuZ-5YqkAcTDs33Jh2k5kPSgSScdhjs6oHI5A=s96-c",
+      "createdAt": "2024-11-04T08:10:15.439Z",
+      "updatedAt": "2024-11-13T18:58:11.748Z",
+      "companyId": 2
+    },
+    "taskDetails": {
+      "title": "הכנת שטח להתקנה",
+      "desc": "u"
+    },
+    "media": []
+  },
+  {
+    "id": 51,
+    "type": "בקשת חריגים",
+    "date": "2024-11-19T17:10:05.880Z",
+    "createdAt": "2024-11-19T17:10:05.880Z",
+    "updatedAt": "2024-11-19T17:10:05.880Z",
+    "duration": "1 ימים ו-17 שעות",
+    "qrNum": 527,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "part": "d-1",
+    "taskTitle": "הכנת שטח להתקנה",
+    "taskDesc": "u",
+    "taskDetails": {
+      "title": "הכנת שטח להתקנה",
+      "desc": "u"
+    },
+    "taskStatus": "המשימה טרם הושלמה",
+    "userName": "אביחי גל אור",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "resBy": null,
+    "desc": "qwd",
+    "granted": "טרם נבדק",
+    "amount": 123,
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1732036204/main/vjsgzlbrgrmsg7nrjnx3.webp"
+    ]
+  }
+]

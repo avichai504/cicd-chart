@@ -1,0 +1,1467 @@
+[
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-19T17:00:19.393Z",
+    "id": 75,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T18:13:03.673Z",
+    "updatedAt": "2024-11-19T17:00:19.393Z",
+    "solvedAt": "2024-11-18T18:13:18.355Z",
+    "duration": "22 שעות ו-47 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731953581/main/m2jfbpvdqamdk6g26ufz.webp"
+    ],
+    "desc": "u",
+    "probDesc": "u",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-19T17:00:19.393Z",
+    "id": 74,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T18:09:42.216Z",
+    "updatedAt": "2024-11-19T17:00:19.393Z",
+    "solvedAt": "2024-11-18T18:13:15.656Z",
+    "duration": "22 שעות ו-50 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731953379/main/keleyxux8o8rvz8084nt.webp"
+    ],
+    "desc": "u",
+    "probDesc": "u",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-19T14:30:50.509Z",
+    "id": 76,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T18:27:42.393Z",
+    "updatedAt": "2024-11-19T14:30:50.509Z",
+    "solvedAt": "2024-11-19T14:30:50.507Z",
+    "duration": "20 שעות ו-3 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731954460/main/mbfjne5hmatrtojge6re.webp"
+    ],
+    "desc": "wed",
+    "probDesc": "wed",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-19T12:49:17.764Z",
+    "id": 56,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:07:46.682Z",
+    "updatedAt": "2024-11-19T12:49:17.764Z",
+    "solvedAt": "2024-11-19T12:49:17.761Z",
+    "duration": "19 שעות ו-41 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731949662/main/nb0fo81kfdb3fxnmpkxx.webp"
+    ],
+    "desc": "wfwe",
+    "probDesc": "wfwe",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T19:02:42.059Z",
+    "id": 77,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T18:37:50.221Z",
+    "updatedAt": "2024-11-18T19:02:42.059Z",
+    "solvedAt": "2024-11-18T19:02:42.056Z",
+    "duration": "24 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731955068/main/grfrf7bwaxmkuwycvo9o.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T19:02:25.072Z",
+    "id": 78,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T18:38:06.557Z",
+    "updatedAt": "2024-11-18T19:02:25.072Z",
+    "solvedAt": "2024-11-18T19:02:25.068Z",
+    "duration": "24 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731955084/main/gpz6fzplvjasgtl9xpby.webp"
+    ],
+    "desc": "qwd21",
+    "probDesc": "qwd21",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:37:55.237Z",
+    "id": 55,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:03:01.580Z",
+    "updatedAt": "2024-11-18T18:37:55.237Z",
+    "solvedAt": "2024-11-18T18:37:55.234Z",
+    "duration": "1 שעות ו-34 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731949380/main/i88dtd9bq3ytna1qdc2f.webp"
+    ],
+    "desc": "",
+    "probDesc": "",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:28:15.170Z",
+    "id": 72,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:37:09.051Z",
+    "updatedAt": "2024-11-18T18:28:15.170Z",
+    "solvedAt": "2024-11-18T18:28:15.166Z",
+    "duration": "51 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731951397/main/qxljexqurue8xtcf0svr.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:20:53.296Z",
+    "id": 71,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:25:42.842Z",
+    "updatedAt": "2024-11-18T18:20:53.296Z",
+    "solvedAt": "2024-11-18T18:20:53.290Z",
+    "duration": "55 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731950735/main/soz3quhzxvivj9xfjvlx.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:20:52.336Z",
+    "id": 70,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:24:56.217Z",
+    "updatedAt": "2024-11-18T18:20:52.336Z",
+    "solvedAt": "2024-11-18T18:20:52.332Z",
+    "duration": "55 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731950689/main/mkrxe1mvitvtikt0bzr8.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:20:51.299Z",
+    "id": 61,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:09:24.444Z",
+    "updatedAt": "2024-11-18T18:20:51.299Z",
+    "solvedAt": "2024-11-18T18:20:51.294Z",
+    "duration": "1 שעות ו-11 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731949753/main/cg90x9jtdw6ke4fplfx2.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:20:50.282Z",
+    "id": 59,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:09:13.550Z",
+    "updatedAt": "2024-11-18T18:20:50.282Z",
+    "solvedAt": "2024-11-18T18:20:50.279Z",
+    "duration": "1 שעות ו-11 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731949743/main/o6h2swsnktc2hsmsvuoj.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:20:49.370Z",
+    "id": 60,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:09:18.893Z",
+    "updatedAt": "2024-11-18T18:20:49.370Z",
+    "solvedAt": "2024-11-18T18:20:49.366Z",
+    "duration": "1 שעות ו-11 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731949753/main/cg90x9jtdw6ke4fplfx2.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:20:48.063Z",
+    "id": 68,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:17:59.757Z",
+    "updatedAt": "2024-11-18T18:20:48.063Z",
+    "solvedAt": "2024-11-18T18:20:48.057Z",
+    "duration": "1 שעות ו-2 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731950267/main/k6nkvmod5bjysyqxwuao.webp"
+    ],
+    "desc": "werf",
+    "probDesc": "werf",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:20:46.889Z",
+    "id": 69,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:24:36.865Z",
+    "updatedAt": "2024-11-18T18:20:46.889Z",
+    "solvedAt": "2024-11-18T18:20:46.884Z",
+    "duration": "56 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731950291/main/aqtdheenpbpds4mnk9wa.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:20:45.949Z",
+    "id": 62,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:09:49.402Z",
+    "updatedAt": "2024-11-18T18:20:45.949Z",
+    "solvedAt": "2024-11-18T18:20:45.946Z",
+    "duration": "1 שעות ו-10 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731949753/main/cg90x9jtdw6ke4fplfx2.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:20:45.173Z",
+    "id": 63,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:10:11.945Z",
+    "updatedAt": "2024-11-18T18:20:45.173Z",
+    "solvedAt": "2024-11-18T18:20:45.170Z",
+    "duration": "1 שעות ו-10 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731949804/main/revgjjsbtr8gbszxaylv.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:20:44.241Z",
+    "id": 65,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:11:17.004Z",
+    "updatedAt": "2024-11-18T18:20:44.241Z",
+    "solvedAt": "2024-11-18T18:20:44.238Z",
+    "duration": "1 שעות ו-9 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731949872/main/ob80f3zmaadguyaj1ip4.webp"
+    ],
+    "desc": "wed",
+    "probDesc": "wed",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:20:42.032Z",
+    "id": 49,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T16:42:29.376Z",
+    "updatedAt": "2024-11-18T18:20:42.032Z",
+    "solvedAt": "2024-11-18T18:20:42.026Z",
+    "duration": "1 שעות ו-38 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [],
+    "desc": "ad",
+    "probDesc": "ad",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "id": 33,
+    "type": "בקשת חריגים",
+    "date": "2024-11-18T18:19:39.055Z",
+    "createdAt": "2024-11-18T18:03:28.229Z",
+    "updatedAt": "2024-11-18T18:19:39.055Z",
+    "duration": "16 דקות (סגור)",
+    "qrNum": 233,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "part": "a-1",
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    },
+    "taskStatus": "המשימה טרם הושלמה",
+    "userName": "אביחי גל אור",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "resBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "desc": "/'ג",
+    "granted": "נדחה",
+    "amount": 1212,
+    "media": []
+  },
+  {
+    "id": 35,
+    "type": "בקשת חריגים",
+    "date": "2024-11-18T18:16:19.308Z",
+    "createdAt": "2024-11-18T18:03:32.982Z",
+    "updatedAt": "2024-11-18T18:16:19.308Z",
+    "duration": "12 דקות (סגור)",
+    "qrNum": 233,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "part": "a-1",
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    },
+    "taskStatus": "המשימה טרם הושלמה",
+    "userName": "אביחי גל אור",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "resBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "desc": "'קכ",
+    "granted": "נדחה",
+    "amount": 123,
+    "media": []
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:16:16.979Z",
+    "id": 73,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:37:26.083Z",
+    "updatedAt": "2024-11-18T18:16:16.979Z",
+    "solvedAt": "2024-11-18T18:16:16.976Z",
+    "duration": "38 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731951440/main/db7h6zxc8qkvspydpwyy.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "id": 36,
+    "type": "בקשת חריגים",
+    "date": "2024-11-18T18:06:46.474Z",
+    "createdAt": "2024-11-18T18:03:36.560Z",
+    "updatedAt": "2024-11-18T18:06:46.474Z",
+    "duration": "3 דקות (סגור)",
+    "qrNum": 233,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "part": "a-1",
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    },
+    "taskStatus": "המשימה טרם הושלמה",
+    "userName": "אביחי גל אור",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "resBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "desc": "123/רג/'ק",
+    "granted": "נדחה",
+    "amount": 1231,
+    "media": []
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:06:38.891Z",
+    "id": 64,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:11:01.694Z",
+    "updatedAt": "2024-11-18T18:06:38.891Z",
+    "solvedAt": "2024-11-18T18:06:38.888Z",
+    "duration": "55 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731949822/main/ejfjcblxinp0hzm6lkfx.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "id": 34,
+    "type": "בקשת חריגים",
+    "date": "2024-11-18T18:03:30.795Z",
+    "createdAt": "2024-11-18T18:03:30.795Z",
+    "updatedAt": "2024-11-18T18:03:30.795Z",
+    "duration": "2 ימים ו-16 שעות",
+    "qrNum": 233,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "part": "a-1",
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    },
+    "taskStatus": "המשימה טרם הושלמה",
+    "userName": "אביחי גל אור",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "resBy": null,
+    "desc": "123",
+    "granted": "טרם נבדק",
+    "amount": 123,
+    "media": []
+  },
+  {
+    "id": 32,
+    "type": "בקשת חריגים",
+    "date": "2024-11-18T18:03:22.627Z",
+    "createdAt": "2024-11-18T18:02:17.674Z",
+    "updatedAt": "2024-11-18T18:03:22.627Z",
+    "duration": "1 דקות (סגור)",
+    "qrNum": 233,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "part": "a-1",
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    },
+    "taskStatus": "המשימה טרם הושלמה",
+    "userName": "אביחי גל אור",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "resBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "desc": "wed",
+    "granted": "נדחה",
+    "amount": 12312,
+    "media": []
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:03:20.350Z",
+    "id": 50,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T16:53:11.561Z",
+    "updatedAt": "2024-11-18T18:03:20.350Z",
+    "solvedAt": "2024-11-18T18:03:20.346Z",
+    "duration": "1 שעות ו-10 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:03:18.816Z",
+    "id": 53,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T16:55:28.878Z",
+    "updatedAt": "2024-11-18T18:03:18.816Z",
+    "solvedAt": "2024-11-18T18:03:18.811Z",
+    "duration": "1 שעות ו-7 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731948926/main/rtj2j6wv1yiw9wivsvv4.webp"
+    ],
+    "desc": "",
+    "probDesc": "",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:02:27.058Z",
+    "id": 51,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T16:53:21.985Z",
+    "updatedAt": "2024-11-18T18:02:27.058Z",
+    "solvedAt": "2024-11-18T18:02:27.048Z",
+    "duration": "1 שעות ו-9 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:02:22.938Z",
+    "id": 52,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T16:54:59.829Z",
+    "updatedAt": "2024-11-18T18:02:22.938Z",
+    "solvedAt": "2024-11-18T18:02:22.929Z",
+    "duration": "1 שעות ו-7 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [],
+    "desc": "erg",
+    "probDesc": "erg",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "id": 31,
+    "type": "בקשת חריגים",
+    "date": "2024-11-18T18:02:09.720Z",
+    "createdAt": "2024-11-18T17:56:20.149Z",
+    "updatedAt": "2024-11-18T18:02:09.720Z",
+    "duration": "5 דקות (סגור)",
+    "qrNum": 233,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "part": "a-1",
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    },
+    "taskStatus": "המשימה טרם הושלמה",
+    "userName": "אביחי גל אור",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "resBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "desc": "qwd",
+    "granted": "נדחה",
+    "amount": 112,
+    "media": []
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T18:00:06.320Z",
+    "id": 66,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:14:16.133Z",
+    "updatedAt": "2024-11-18T18:00:06.320Z",
+    "solvedAt": "2024-11-18T18:00:06.317Z",
+    "duration": "45 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731949980/main/f0wlog6pkpuurlbl3pj2.webp"
+    ],
+    "desc": "qwd",
+    "probDesc": "qwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T17:52:18.286Z",
+    "id": 54,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T16:55:40.620Z",
+    "updatedAt": "2024-11-18T17:52:18.286Z",
+    "solvedAt": "2024-11-18T17:52:18.273Z",
+    "duration": "56 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [],
+    "desc": "wef",
+    "probDesc": "wef",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T17:46:47.430Z",
+    "id": 67,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:14:34.886Z",
+    "updatedAt": "2024-11-18T17:46:47.430Z",
+    "solvedAt": "2024-11-18T17:46:47.425Z",
+    "duration": "32 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731950071/main/xjwy7auc4kzpqatysiha.webp"
+    ],
+    "desc": "qwdqwd",
+    "probDesc": "qwdqwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T17:46:43.998Z",
+    "id": 58,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:09:03.764Z",
+    "updatedAt": "2024-11-18T17:46:43.998Z",
+    "solvedAt": "2024-11-18T17:46:43.993Z",
+    "duration": "37 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731949713/main/aevgzpdqvmlxkpmlp0er.webp"
+    ],
+    "desc": "qwdqwd",
+    "probDesc": "qwdqwd",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-18T17:46:41.364Z",
+    "id": 57,
+    "qrNum": 233,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T17:08:50.807Z",
+    "updatedAt": "2024-11-18T17:46:41.364Z",
+    "solvedAt": "2024-11-18T17:46:41.358Z",
+    "duration": "37 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731949713/main/aevgzpdqvmlxkpmlp0er.webp"
+    ],
+    "desc": "wed",
+    "probDesc": "wed",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "id": 292,
+    "type": "משימה שדולגה",
+    "date": "2024-11-18T16:40:24.797Z",
+    "desc": "איטום חלון מטבח",
+    "userName": "אביחי גל אור",
+    "taskTitle": "איטום חלון",
+    "title": "איטום חלון",
+    "part": "a-1",
+    "qrNum": 233,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "mainTask": {
+      "id": 369436,
+      "title": "איטום חלון",
+      "desc": "איטום חלון מטבח",
+      "tasksId": 7476756,
+      "prjId": 9,
+      "order": 1,
+      "media": false,
+      "for": "INSTALLER",
+      "price": 500,
+      "createdAt": "2024-11-04T09:35:28.744Z",
+      "updatedAt": "2024-11-04T09:35:28.744Z"
+    },
+    "order": 1,
+    "curOrder": "משימה 2 מתוך 3",
+    "for": "INSTALLER",
+    "price": 500,
+    "skippedAt": "2024-11-18T16:40:24.797Z",
+    "skippedBy": {
+      "id": 2,
+      "firstName": "אביחי",
+      "lastName": "גל אור",
+      "name": "אביחי גל אור",
+      "role": "ADMIN",
+      "email": "avichai506@gmail.com",
+      "phone": "0528864546",
+      "otp": null,
+      "kablanId": null,
+      "gglSub": "103333704777323967454",
+      "gglName": "Avichai Gal-Or",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocKIZF0OtbE59kuZ-5YqkAcTDs33Jh2k5kPSgSScdhjs6oHI5A=s96-c",
+      "createdAt": "2024-11-04T08:10:15.439Z",
+      "updatedAt": "2024-11-13T18:58:11.748Z",
+      "companyId": 2
+    },
+    "taskDetails": {
+      "title": "איטום חלון",
+      "desc": "איטום חלון מטבח"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731945634/main/filojkkfykfdytqmfj88.webp"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "בקשת חריגים",
+    "date": "2024-11-18T16:34:40.596Z",
+    "createdAt": "2024-11-18T16:34:31.971Z",
+    "updatedAt": "2024-11-18T16:34:40.596Z",
+    "duration": "0 דקות (סגור)",
+    "qrNum": 233,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "part": "a-1",
+    "taskTitle": "איטום חלון",
+    "taskDesc": "איטום חלון מטבח",
+    "taskDetails": {
+      "title": "איטום חלון",
+      "desc": "איטום חלון מטבח"
+    },
+    "taskStatus": "המשימה טרם הושלמה",
+    "userName": "אביחי גל אור",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "resBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "desc": "wef",
+    "granted": "אושר",
+    "amount": 123,
+    "media": []
+  },
+  {
+    "id": 294,
+    "type": "משימה שהושלמה",
+    "date": "2024-11-18T15:56:24.262Z",
+    "desc": "התקנת חלון מטבח",
+    "userName": "אביחי גל אור",
+    "completedBy": {
+      "id": 2,
+      "firstName": "אביחי",
+      "lastName": "גל אור",
+      "name": "אביחי גל אור",
+      "role": "ADMIN",
+      "email": "avichai506@gmail.com",
+      "phone": "0528864546",
+      "otp": null,
+      "kablanId": null,
+      "gglSub": "103333704777323967454",
+      "gglName": "Avichai Gal-Or",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocKIZF0OtbE59kuZ-5YqkAcTDs33Jh2k5kPSgSScdhjs6oHI5A=s96-c",
+      "createdAt": "2024-11-04T08:10:15.439Z",
+      "updatedAt": "2024-11-13T18:58:11.748Z",
+      "companyId": 2
+    },
+    "completedAt": "2024-11-18T15:56:23.114Z",
+    "completed": true,
+    "taskTitle": "התקנת חלון",
+    "title": "התקנת חלון",
+    "approvedBy": {
+      "id": 2,
+      "firstName": "אביחי",
+      "lastName": "גל אור",
+      "name": "אביחי גל אור",
+      "role": "ADMIN",
+      "email": "avichai506@gmail.com",
+      "phone": "0528864546",
+      "otp": null,
+      "kablanId": null,
+      "gglSub": "103333704777323967454",
+      "gglName": "Avichai Gal-Or",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocKIZF0OtbE59kuZ-5YqkAcTDs33Jh2k5kPSgSScdhjs6oHI5A=s96-c",
+      "createdAt": "2024-11-04T08:10:15.439Z",
+      "updatedAt": "2024-11-13T18:58:11.748Z",
+      "companyId": 2
+    },
+    "qrNum": 233,
+    "part": "a-1",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "mainTask": {
+      "id": 33988,
+      "title": "התקנת חלון",
+      "desc": "התקנת חלון מטבח",
+      "tasksId": 7476756,
+      "prjId": 9,
+      "order": 0,
+      "media": false,
+      "for": "INSTALLER",
+      "price": 1000,
+      "createdAt": "2024-11-04T09:35:28.744Z",
+      "updatedAt": "2024-11-05T09:07:32.159Z"
+    },
+    "for": "INSTALLER",
+    "order": 0,
+    "taskDetails": {
+      "title": "התקנת חלון",
+      "desc": "התקנת חלון מטבח"
+    },
+    "curOrder": "משימה 1 מתוך 3",
+    "price": 1000,
+    "note": "wef",
+    "media": []
+  }
+]
