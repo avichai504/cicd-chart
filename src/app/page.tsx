@@ -27,6 +27,12 @@ export default function Home() {
         >
           statistics
         </a>
+        <a
+          href="/reacharts"
+          className="bg-red-500 text-white font-bold py-2 px-4 rounded border-2 border-black text-center"
+        >
+          reacharts
+        </a>
       </div>
     </div>
   )
