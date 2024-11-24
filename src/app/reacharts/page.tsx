@@ -1,16 +1,17 @@
 import BarChartComponent from '../../components/reacharts/BarChart'
 import Chart from '../../components/reacharts/Chart'
+import Box from '../../components/Box'
 
 export default function Reacharts() {
   return (
-    <div className="flex flex-col items-center min-h-screen">
-      <h1>Chart</h1>
-      <Chart />
-      <h1>Money Status Bar Chart</h1>
-      <BarChartComponent />
+    <div className="flex flex-col items-center min-h-screen bg-gray-100 py-6">
+      <Box title="Pie Chart">
+        <Chart />
+      </Box>
 
-      <h1>Line Chart</h1>
-      {/* <LineChart /> */}
+      <Box title="Money Status Bar Chart">
+        <BarChartComponent />
+      </Box>
     </div>
   )
 }
