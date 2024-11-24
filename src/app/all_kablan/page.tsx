@@ -2,16 +2,16 @@
 // component
 import Box from '@/components/Box'
 // Graph
-import BarChartMixed from '@/components/barChartStatus/BarMixed'
-import LineChartMoney from '@/components/lineChartMoneyData/LineChart'
-import LineChartTask from '@/components/lineChartTaskComplete/LineChartTask'
-import PieChartTask from '@/components/pieChartTaskAll/pieChartTask'
+import BarChartMixed from '@/components/Graphs/all_kablan/barChartStatus/BarMixed'
+import LineChartMoney from '@/components/Graphs/all_kablan/lineChartMoneyData/LineChart'
+import LineChartTask from '@/components/Graphs/all_kablan/lineChartTaskComplete/LineChartTask'
+import PieChartTask from '@/components/Graphs/all_kablan/pieChartTaskAll/pieChartTask'
 
 // Data
-import { getKablansData } from '@/components/barChartStatus/Data'
-import { getMoneyData } from '@/components/lineChartMoneyData/Data'
-import { getTaskData } from '@/components/lineChartTaskComplete/Data'
-import { getPieData } from '@/components/pieChartTaskAll/Data'
+import { getKablansData } from '@/components/Graphs/all_kablan/barChartStatus/Data'
+import { getMoneyData } from '@/components/Graphs/all_kablan/lineChartMoneyData/Data'
+import { getTaskData } from '@/components/Graphs/all_kablan/lineChartTaskComplete/Data'
+import { getPieData } from '@/components/Graphs/all_kablan/pieChartTaskAll/Data'
 
 export default function AllKablan() {
   const kablansData = getKablansData

@@ -1,6 +1,6 @@
 'use client'
 
-import { formatLineChartData } from '@/components/lineChartTaskComplete/formatData'
+import { formatLineChartData } from '@/components/Graphs/all_kablan/lineChartTaskComplete/formatData'
 import { Line } from 'react-chartjs-2'
 import {
   Chart as ChartJS,

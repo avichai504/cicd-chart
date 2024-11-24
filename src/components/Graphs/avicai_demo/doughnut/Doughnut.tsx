@@ -1,6 +1,6 @@
 'use client'
 import { Doughnut } from 'react-chartjs-2'
-import { formatDoughnutChartData } from '@/components/doughnut/formatData'
+import { formatDoughnutChartData } from './formatData'
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js'
 
 ChartJS.register(ArcElement, Tooltip, Legend)

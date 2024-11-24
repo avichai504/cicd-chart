@@ -1,13 +1,17 @@
-import BarChart from '@/components/bar/Bar'
-import BarChartMixed from '@/components/barMixed/BarMixed'
+// component
 import Box from '@/components/Box'
-import DoughnutChart from '@/components/doughnut/Doughnut'
-import GroupedBarChart from '@/components/groupedBar/GroupedBar'
-import LineChart2 from '@/components/lineChart/LineChart2'
-import PieChartComponent from '@/components/pie/Pie'
-import PolarChartComponent from '@/components/polar/Polar'
-import StackedBarChartComponent from '@/components/stackBar/StackBar'
+// graph
+import BarChart from '../../components/Graphs/avicai_demo/bar/Bar'
+import BarChartMixed from '../../components/Graphs/avicai_demo/barMixed/BarMixed'
+import DoughnutChart from '../../components/Graphs/avicai_demo/doughnut/Doughnut'
 
+import GroupedBarChart from '../../components/Graphs/avicai_demo/groupedBar/GroupedBar'
+import LineChart2 from '../../components/Graphs/avicai_demo/lineChart/LineChart2'
+import PieChartComponent from '@/components/Graphs/all_kablan/pie/Pie'
+import PolarChartComponent from '../../components/Graphs/avicai_demo/polar/Polar'
+import StackedBarChartComponent from '../../components/Graphs/avicai_demo/stackBar/StackBar'
+
+// data
 import kablansData from '../../mock_data/kablans.json'
 import kablansTasksData from '../../mock_data/kablanTasks.json'
 // import kablanPerformance from '../mock_data/kablanPerformance.json'

@@ -1,7 +1,15 @@
 'use client'
 import { Bar } from 'react-chartjs-2'
-import { formatData } from '@/components/stackBar/formatData'
-import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend } from 'chart.js'
+import { formatData } from './formatData'
+import {
+  Chart as ChartJS,
+  CategoryScale,
+  LinearScale,
+  BarElement,
+  Title,
+  Tooltip,
+  Legend,
+} from 'chart.js'
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 
@@ -17,7 +25,11 @@ export default function StackedBarChartComponent({ data }) {
     },
     scales: {
       x: { stacked: true, beginAtZero: true },
-      y: { stacked: true, beginAtZero: true, title: { display: true, text: 'Number of Requests' } },
+      y: {
+        stacked: true,
+        beginAtZero: true,
+        title: { display: true, text: 'Number of Requests' },
+      },
     },
   } as any
 

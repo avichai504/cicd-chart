@@ -1,13 +1,20 @@
 // PolarChartComponent.tsx
-'use client';
-import { PolarArea } from 'react-chartjs-2';
-import { formatData } from '@/components/polar/formatData';
-import { Chart as ChartJS, RadialLinearScale, ArcElement, Tooltip, Legend, Title } from 'chart.js';
+'use client'
+import { PolarArea } from 'react-chartjs-2'
+import { formatData } from './formatData'
+import {
+  Chart as ChartJS,
+  RadialLinearScale,
+  ArcElement,
+  Tooltip,
+  Legend,
+  Title,
+} from 'chart.js'
 
-ChartJS.register(RadialLinearScale, ArcElement, Tooltip, Legend, Title);
+ChartJS.register(RadialLinearScale, ArcElement, Tooltip, Legend, Title)
 
 export default function PolarChartComponent({ data }) {
-  const chartData = formatData(data);
+  const chartData = formatData(data)
 
   const options = {
     responsive: true,
@@ -22,7 +29,7 @@ export default function PolarChartComponent({ data }) {
         title: { display: true, text: 'כמות הבעיות למשימה' },
       },
     },
-  } as any;
+  } as any
 
-  return <PolarArea data={chartData} options={options} />;
+  return <PolarArea data={chartData} options={options} />
 }

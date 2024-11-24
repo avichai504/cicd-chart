@@ -1,8 +1,16 @@
 // GroupedBarChart.tsx
 'use client'
 import { Bar } from 'react-chartjs-2'
-import { formatGroupedBarChartData } from '@/components/groupedBar/formatData'
-import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend } from 'chart.js'
+import { formatGroupedBarChartData } from './formatData'
+import {
+  Chart as ChartJS,
+  CategoryScale,
+  LinearScale,
+  BarElement,
+  Title,
+  Tooltip,
+  Legend,
+} from 'chart.js'
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 
@@ -18,7 +26,10 @@ export default function GroupedBarChart({ data }) {
     },
     scales: {
       x: { beginAtZero: true },
-      y: { beginAtZero: true, title: { display: true, text: 'Number of Tasks' } },
+      y: {
+        beginAtZero: true,
+        title: { display: true, text: 'Number of Tasks' },
+      },
     },
   } as any
 

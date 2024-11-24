@@ -1,7 +1,7 @@
 // LineChart2.tsx
-'use client';
-import { Line } from 'react-chartjs-2';
-import { formatData } from '@/components/lineChart/formatData';
+'use client'
+import { Line } from 'react-chartjs-2'
+import { formatData } from './formatData'
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -11,12 +11,20 @@ import {
   Title,
   Tooltip,
   Legend,
-} from 'chart.js';
+} from 'chart.js'
 
-ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
+ChartJS.register(
+  CategoryScale,
+  LinearScale,
+  PointElement,
+  LineElement,
+  Title,
+  Tooltip,
+  Legend
+)
 
 export default function LineChart2({ data }) {
-  const chartData = formatData(data);
+  const chartData = formatData(data)
 
   const options = {
     responsive: true,
@@ -41,7 +49,7 @@ export default function LineChart2({ data }) {
         grid: { drawOnChartArea: false }, // Prevents grid lines overlap
       },
     },
-  } as any;
+  } as any
 
-  return <Line data={chartData} options={options} />;
+  return <Line data={chartData} options={options} />
 }

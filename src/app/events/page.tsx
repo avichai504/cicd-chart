@@ -1,8 +1,11 @@
 // Page.tsx
-import BarChartEvents from '@/components/barChartEventAllKablan/BarChartEvents' // Update to BarChartEvents
-import { getEvent } from '../../components/barChartEventAllKablan/Data'
+// graph
+import BarChartEvents from '../../components/Graphs/events/barChartEventAllKablan/BarChartEvents' // Update to BarChartEvents
+import BarChartEventTypes from '../../components/Graphs/events/barChartEventType/BarChartEventType'
+// data
+import { getEvent } from '../../components/Graphs/events/barChartEventAllKablan/Data'
+// component
 import Box from '@/components/Box'
-import BarChartEventTypes from '@/components/barChartEventType/BarChartEventType'
 
 export default function Events() {
   const kablansData = getEvent

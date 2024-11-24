@@ -1,5 +1,5 @@
-import BarChartComponent from '../../components/1.reachartsAll/BarChart'
-import Chart from '../../components/1.reachartsAll/Chart'
+import BarChartComponent from '../../components/reacharts/BarChart'
+import Chart from '../../components/reacharts/Chart'
 
 export default function Reacharts() {
   return (

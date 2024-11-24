@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import HistoryQr from '@/components/2.historyComponents/HistoryQR'
+import HistoryQr from '../../components/history/HistoryQR'
 
 export default function History() {
   const [qrNumber, setQrNumber] = useState<number | null>(null)

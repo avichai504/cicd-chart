@@ -1,6 +1,6 @@
 'use client'
 import { Line } from 'react-chartjs-2'
-import { formatLineChartData } from '@/components/line/formatData'
+import { formatLineChartData } from './formatData'
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -12,7 +12,15 @@ import {
   PointElement,
 } from 'chart.js'
 
-ChartJS.register(CategoryScale, LinearScale, LineElement, PointElement, Title, Tooltip, Legend)
+ChartJS.register(
+  CategoryScale,
+  LinearScale,
+  LineElement,
+  PointElement,
+  Title,
+  Tooltip,
+  Legend
+)
 
 export default function LineChart({ data }) {
   const chartData = formatLineChartData(data)
@@ -26,7 +34,10 @@ export default function LineChart({ data }) {
     },
     scales: {
       x: { title: { display: true, text: 'Month' } },
-      y: { beginAtZero: true, title: { display: true, text: 'Completed Tasks' } },
+      y: {
+        beginAtZero: true,
+        title: { display: true, text: 'Completed Tasks' },
+      },
     },
   } as any
 

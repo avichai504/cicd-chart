@@ -10,7 +10,7 @@ import probData from './data/prob.json'
 import skippedData from './data/skip.json'
 import waitingData from './data/waitnig.json'
 
-// style and icom
+// style and icon
 import categoryStyles from './data/categoryStyles'
 
 // Import category components

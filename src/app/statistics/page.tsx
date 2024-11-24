@@ -1,15 +1,15 @@
 // page.tsx
 import Box from '@/components/Box'
 // chart
-import StatiscMoneyBar from '../../components/statiscMoneyBarChart/StatiscMoneyBar'
-import StatiscMoneyPieChart from '@/components/statiscMoneyPieChart/StatiscMoneyPie'
-import StatiscProbs from '@/components/statiscProbs/StatiscProbs'
-import StatiscBgtReqs from '@/components/StatiscBgtReqs/StatiscBgtReqs'
+import StatiscMoneyBar from '../../components/Graphs/statistics/statiscMoneyBarChart/StatiscMoneyBar'
+import StatiscMoneyPieChart from '@/components/Graphs/statistics/statiscMoneyPieChart/StatiscMoneyPie'
+import StatiscProbs from '@/components/Graphs/statistics/statiscProbs/StatiscProbs'
+import StatiscBgtReqs from '@/components/Graphs/statistics/StatiscBgtReqs/StatiscBgtReqs'
 
 // data
-import { getMoneyStatusData } from '../../components/statiscMoneyBarChart/Data'
-import { probData } from '../../components/statiscProbs/Data'
-import { BgtReqsData } from '@/components/StatiscBgtReqs/Data'
+import { getMoneyStatusData } from '../../components/Graphs/statistics/statiscMoneyBarChart/Data'
+import { probData } from '../../components/Graphs/statistics/statiscProbs/Data'
+import { BgtReqsData } from '@/components/Graphs/statistics/StatiscBgtReqs/Data'
 
 export default function Statistics() {
   const kablansData = getMoneyStatusData
