@@ -1,0 +1,54 @@
+[
+  {
+    "id": 251,
+    "type": "משימה שדולגה",
+    "date": "2024-11-14T17:33:13.836Z",
+    "desc": "כ'ככק",
+    "userName": "אביחי גל אור",
+    "taskTitle": "ראשית משימה ממש ארוכה",
+    "title": "ראשית משימה ממש ארוכה",
+    "part": "e-1",
+    "qrNum": 5555,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "mainTask": {
+      "id": 9685559,
+      "title": "ראשית משימה ממש ארוכה",
+      "desc": "כ'ככק",
+      "tasksId": 1231555,
+      "prjId": 9,
+      "order": 0,
+      "media": true,
+      "for": "KABLAN",
+      "price": 1222,
+      "createdAt": "2024-11-14T17:32:31.030Z",
+      "updatedAt": "2024-11-14T17:32:31.030Z"
+    },
+    "order": 0,
+    "curOrder": "משימה 1 מתוך 13",
+    "for": "KABLAN",
+    "price": 1222,
+    "skippedAt": "2024-11-14T17:33:13.836Z",
+    "skippedBy": {
+      "id": 2,
+      "firstName": "אביחי",
+      "lastName": "גל אור",
+      "name": "אביחי גל אור",
+      "role": "ADMIN",
+      "email": "avichai506@gmail.com",
+      "phone": "0528864546",
+      "otp": null,
+      "kablanId": null,
+      "gglSub": "103333704777323967454",
+      "gglName": "Avichai Gal-Or",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocKIZF0OtbE59kuZ-5YqkAcTDs33Jh2k5kPSgSScdhjs6oHI5A=s96-c",
+      "createdAt": "2024-11-04T08:10:15.439Z",
+      "updatedAt": "2024-11-13T18:58:11.748Z",
+      "companyId": 2
+    },
+    "taskDetails": {
+      "title": "ראשית משימה ממש ארוכה",
+      "desc": "כ'ככק"
+    },
+    "media": []
+  }
+]

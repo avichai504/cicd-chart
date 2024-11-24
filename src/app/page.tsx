@@ -33,6 +33,12 @@ export default function Home() {
         >
           reacharts
         </a>
+        <a
+          href="/history"
+          className="bg-green-500 text-white font-bold py-2 px-4 rounded border-2 border-black text-center"
+        >
+          history
+        </a>
       </div>
     </div>
   )

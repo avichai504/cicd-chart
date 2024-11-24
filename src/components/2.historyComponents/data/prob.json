@@ -1,0 +1,76 @@
+[
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-19T17:00:19.393Z",
+    "id": 75,
+    "qrNum": 5555,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T18:13:03.673Z",
+    "updatedAt": "2024-11-19T17:00:19.393Z",
+    "solvedAt": "2024-11-18T18:13:18.355Z",
+    "duration": "22 שעות ו-47 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731953581/main/m2jfbpvdqamdk6g26ufz.webp"
+    ],
+    "desc": "u",
+    "probDesc": "u",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  },
+  {
+    "type": "בעית ביצוע",
+    "date": "2024-11-19T17:00:19.393Z",
+    "id": 75,
+    "qrNum": 6666,
+    "taskTitle": "בדיקת איטום",
+    "taskDesc": "בדיקת איטום חלון מטבח",
+    "loc": "קומה 22, דירה 1, מטבח",
+    "createdAt": "2024-11-18T18:13:03.673Z",
+    "updatedAt": "2024-11-19T17:00:19.393Z",
+    "solvedAt": "2024-11-18T18:13:18.355Z",
+    "duration": "22 שעות ו-47 דקות (סגור)",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "userName": "אביחי גל אור",
+    "solvedBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731953581/main/m2jfbpvdqamdk6g26ufz.webp"
+    ],
+    "desc": "u",
+    "probDesc": "u",
+    "status": true,
+    "part": "a-1",
+    "taskDetails": {
+      "title": "בדיקת איטום",
+      "desc": "בדיקת איטום חלון מטבח"
+    }
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "id": 298,
+    "type": "משימה שהושלמה",
+    "date": "2024-11-19T17:01:27.552Z",
+    "desc": "איטום חלון מטבח",
+    "userName": "אביחי גל אור",
+    "completedBy": {
+      "id": 2,
+      "firstName": "אביחי",
+      "lastName": "גל אור",
+      "name": "אביחי גל אור",
+      "role": "ADMIN",
+      "email": "avichai506@gmail.com",
+      "phone": "0528864546",
+      "otp": null,
+      "kablanId": null,
+      "gglSub": "103333704777323967454",
+      "gglName": "Avichai Gal-Or",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocKIZF0OtbE59kuZ-5YqkAcTDs33Jh2k5kPSgSScdhjs6oHI5A=s96-c",
+      "createdAt": "2024-11-04T08:10:15.439Z",
+      "updatedAt": "2024-11-13T18:58:11.748Z",
+      "companyId": 2
+    },
+    "completedAt": "2024-11-18T19:30:51.420Z",
+    "completed": true,
+    "taskTitle": "איטום חלון",
+    "title": "איטום חלון",
+    "approvedBy": {
+      "id": 2,
+      "firstName": "אביחי",
+      "lastName": "גל אור",
+      "name": "אביחי גל אור",
+      "role": "ADMIN",
+      "email": "avichai506@gmail.com",
+      "phone": "0528864546",
+      "otp": null,
+      "kablanId": null,
+      "gglSub": "103333704777323967454",
+      "gglName": "Avichai Gal-Or",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocKIZF0OtbE59kuZ-5YqkAcTDs33Jh2k5kPSgSScdhjs6oHI5A=s96-c",
+      "createdAt": "2024-11-04T08:10:15.439Z",
+      "updatedAt": "2024-11-13T18:58:11.748Z",
+      "companyId": 2
+    },
+    "qrNum": 5555,
+    "part": "a-1",
+    "loc": "קומה 23, דירה 1, מטבח",
+    "mainTask": {
+      "id": 369436,
+      "title": "איטום חלון",
+      "desc": "איטום חלון מטבח",
+      "tasksId": 7476756,
+      "prjId": 9,
+      "order": 1,
+      "media": false,
+      "for": "INSTALLER",
+      "price": 500,
+      "createdAt": "2024-11-04T09:35:28.744Z",
+      "updatedAt": "2024-11-04T09:35:28.744Z"
+    },
+    "for": "INSTALLER",
+    "order": 1,
+    "taskDetails": {
+      "title": "איטום חלון",
+      "desc": "איטום חלון מטבח"
+    },
+    "curOrder": "משימה 2 מתוך 3",
+    "price": 500,
+    "note": "u",
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1731958241/main/mby9ucen5mu2uzgz1hka.webp"
+    ]
+  }
+]

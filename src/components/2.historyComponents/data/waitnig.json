@@ -1,0 +1,104 @@
+[
+  {
+    "id": 336,
+    "type": "ממתין לאישור",
+    "date": "2024-11-19T17:01:27.552Z",
+    "userName": "אביחי גל אור",
+    "mainTask": {
+      "price": 1000,
+      "title": "התקנת חלון",
+      "desc": "התקנת חלון מטבח",
+      "for": "INSTALLER"
+    },
+    "completedBy": {
+      "name": "אביחי גל אור",
+      "id": 2,
+      "role": "ADMIN",
+      "kablanId": null,
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com"
+    },
+    "completedAt": "2024-11-19T16:21:28.776Z",
+    "duration": "1 ימים ו-18 שעות",
+    "note": "u",
+    "desc": "התקנת חלון מטבח",
+    "taskTitle": "התקנת חלון",
+    "taskDetails": {
+      "title": "התקנת חלון",
+      "desc": "התקנת חלון מטבח"
+    },
+    "for": "INSTALLER",
+    "qr": {
+      "qrNum": 520,
+      "floor": 9,
+      "aptNum": 1,
+      "part": {
+        "id": 1,
+        "name": "a-1",
+        "desc": "1\n",
+        "qntt": 1,
+        "prjId": 9,
+        "tasksId": 7476756,
+        "createdAt": "2024-11-04T09:33:23.067Z",
+        "updatedAt": "2024-11-04T09:35:28.744Z"
+      },
+      "locInApt": "מטבח"
+    },
+    "qrNum": 5555,
+    "part": "a-1",
+    "price": 1000,
+    "loc": "קומה 9, דירה 1, מטבח",
+    "media": []
+  },
+  {
+    "id": 336,
+    "type": "ממתין לאישור",
+    "date": "2024-11-24T17:01:27.552Z",
+    "userName": "אביחי גל אור",
+    "mainTask": {
+      "price": 1000,
+      "title": "התקנת חלון",
+      "desc": "התקנת חלון מטבח",
+      "for": "INSTALLER"
+    },
+    "completedBy": {
+      "name": "אביחי גל אור",
+      "id": 2,
+      "role": "ADMIN",
+      "kablanId": null,
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com"
+    },
+    "completedAt": "2024-11-19T16:21:28.776Z",
+    "duration": "1 ימים ו-18 שעות",
+    "note": "u",
+    "desc": "התקנת חלון מטבח",
+    "taskTitle": "התקנת חלון",
+    "taskDetails": {
+      "title": "התקנת חלון",
+      "desc": "התקנת חלון מטבח"
+    },
+    "for": "INSTALLER",
+    "qr": {
+      "qrNum": 520,
+      "floor": 9,
+      "aptNum": 1,
+      "part": {
+        "id": 1,
+        "name": "a-1",
+        "desc": "1\n",
+        "qntt": 1,
+        "prjId": 9,
+        "tasksId": 7476756,
+        "createdAt": "2024-11-04T09:33:23.067Z",
+        "updatedAt": "2024-11-04T09:35:28.744Z"
+      },
+      "locInApt": "מטבח"
+    },
+    "qrNum": 5555,
+    "part": "a-1",
+    "price": 1000,
+    "loc": "קומה 9, דירה 1, מטבח",
+    "media": []
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 51,
+    "type": "בקשת חריגים",
+    "date": "2024-11-19T17:10:05.880Z",
+    "createdAt": "2024-11-19T17:10:05.880Z",
+    "updatedAt": "2024-11-19T17:10:05.880Z",
+    "duration": "1 ימים ו-17 שעות",
+    "qrNum": 5555,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "part": "d-1",
+    "taskTitle": "הכנת שטח להתקנה",
+    "taskDesc": "u",
+    "taskDetails": {
+      "title": "הכנת שטח להתקנה",
+      "desc": "u"
+    },
+    "taskStatus": "המשימה טרם הושלמה",
+    "userName": "אביחי גל אור",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "resBy": null,
+    "desc": "qwd",
+    "granted": "טרם נבדק",
+    "amount": 123,
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1732036204/main/vjsgzlbrgrmsg7nrjnx3.webp"
+    ]
+  },
+  {
+    "id": 51,
+    "type": "בקשת חריגים",
+    "date": "2024-11-20T17:10:05.880Z",
+    "createdAt": "2024-11-19T17:10:05.880Z",
+    "updatedAt": "2024-11-19T17:10:05.880Z",
+    "duration": "1 ימים ו-17 שעות",
+    "qrNum": 5555,
+    "loc": "קומה 22, דירה 1, מטבח",
+    "part": "d-1",
+    "taskTitle": "הכנת שטח להתקנה",
+    "taskDesc": "u",
+    "taskDetails": {
+      "title": "הכנת שטח להתקנה",
+      "desc": "u"
+    },
+    "taskStatus": "המשימה טרם הושלמה",
+    "userName": "אביחי גל אור",
+    "reqBy": {
+      "name": "אביחי גל אור",
+      "phone": "0528864546",
+      "email": "avichai506@gmail.com",
+      "role": "ADMIN"
+    },
+    "resBy": null,
+    "desc": "qwd",
+    "granted": "טרם נבדק",
+    "amount": 123,
+    "media": [
+      "https://res.cloudinary.com/dfzjde8p7/image/upload/v1732036204/main/vjsgzlbrgrmsg7nrjnx3.webp"
+    ]
+  }
+]
