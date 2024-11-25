@@ -26,7 +26,7 @@ const quantitiesData = [
 
 export default function TasksQuantitiesBarChart() {
   return (
-    <div>
+    <div className="text-black">
       <ResponsiveContainer width={1200} height={500}>
         <BarChart
           data={quantitiesData}
@@ -40,7 +40,7 @@ export default function TasksQuantitiesBarChart() {
           />
           <YAxis tick={{ fontSize: 12 }} />
           <Tooltip formatter={(value) => `${value} משימות`} />
-          <Legend />
+          <Legend verticalAlign="top" height={36} />
           <Bar dataKey="quantity" barSize={50}>
             {quantitiesData.map((entry, index) => (
               <Cell key={`cell-${index}`} fill={entry.color} />

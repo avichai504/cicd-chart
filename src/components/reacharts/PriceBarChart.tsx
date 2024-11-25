@@ -34,7 +34,7 @@ const priceData = [
 
 export default function PriceBarChart() {
   return (
-    <div className="w-full h-[400px] flex justify-center items-center bg-white shadow-lg rounded-lg p-6">
+    <div className="text-black w-full h-[400px] flex justify-center items-center bg-white shadow-lg rounded-lg p-6">
       <ResponsiveContainer width="100%" height="100%">
         <BarChart
           data={priceData}
